@@ -1,0 +1,13 @@
+03/03/16
+
+Estou realizando pesquisas a respeito do mouse tratamento de eventos, para fazer a classe Bomba (ou clique). Alguns links úteis estão disponíveis nesse arquivo. Aparentemente, dá p/ manipular o mouse e o cursor pela própria LibGDX e seus pacotes.
+Vou pegar o clica da bomba em uma imagem (ou seja, cada imagem tem que estar "disponível para ser clicada") e carregar uma nova. 
+Não teve uma linha de código, pois foram pesquisas mais específicas redirecionadas a minha parte da programação. 
+
+http://www.javaprogressivo.net/2013/11/Tratando-eventos-acoes-GUI-Event-Handling-ActionListener-ActionEvent-actionPerformed.html
+https://libgdx.badlogicgames.com/nightlies/docs/api/
+http://javafree.uol.com.br/topic-879662-Trocar-a-imagem-quando-clicar-no-botao.html
+
+04/03/16
+
+Fiz um loop e desenhei a matriz com uma imagem de um quadrado azul, pois assim (creio que) ficaria mais fácil de pegar o clique do mouse. Contudo, agora tive a ideia de fazer uma matriz com botões, pois ficaria mais fácil ainda de organizar as ações.
